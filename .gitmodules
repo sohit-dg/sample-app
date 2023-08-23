@@ -1,0 +1,6 @@
+[submodule "sample_EA"]
+	path = sample_EA
+	url = https://github.com/sohit-dg/sample_EA.git
+[submodule "sample_FARMER"]
+	path = sample_FARMER
+	url = https://github.com/sohit-dg/sample_FARMER.git
